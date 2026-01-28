@@ -37,7 +37,7 @@
 - Симуляция без физического ПЛК
 
 ## Демонстрация работы
-![demo](codesys-painting-line/screenshots/painting_demo.gif)
+![demo](screenshots/painting_demo.gif)
 
 ## Назначение
 Учебный проект, выполненный как модель реальной покрасочной линии
