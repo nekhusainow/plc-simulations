@@ -25,4 +25,4 @@
 - Реализована запись данных в MS Access (SQL)
 
 ## Демонстрация работы
-![demo](demo/scada_demo.gif)
+![demo](screenshots/scada_demo.gif)
