@@ -2,17 +2,17 @@
 Проект управления конвейером на языке Structured Text в среде CODESYS с имитацией работы электропривода.
 
 [Conveyor Control System (CODESYS ST)](https://github.com/nekhusainow/plc-simulations/tree/main/codesys-conveyor-control-st)
-![demo](codesys-conveyor-control-st/screenshots/motor_demo.gif)
+![demo](motor_demo.gif)
 
 Проект управления электродвигателем в среде CODESYS на языке Ladder Diagram (LD). Реализованы базовые режимы пуска и остановки, логика управления и индикация состояния.
 
 [Motor Control System (CODESYS LD)](https://github.com/nekhusainow/plc-simulations/tree/main/codesys-motor-control-ld)
-![demo](codesys-motor-control-ld/screenshots/conveyor_demo.gif)
+![demo](screenshots/conveyor_demo.gif)
 
 Модель автоматизированной покрасочной линии с подвесным конвейером, электроприводами и системой нанесения краски.
 
 [Automated Painting Line Control System (CODESYS)](https://github.com/nekhusainow/plc-simulations/tree/main/codesys-painting-line)
-![demo](codesys-painting-line/screenshots/painting_demo.gif)
+![demo](screenshots/painting_demo.gif)
 
 Встроенная система управления задачей измерения АЦП на базе STM32 с использованием FreeRTOS.
 
